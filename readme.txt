@@ -1,2 +1,2 @@
-this is the first test
+this is the second modified test
 when I am learning something about git
