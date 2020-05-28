@@ -1,2 +1,2 @@
 this is the second modified test
-when I am learning something about git
+when I am learning everything about git
